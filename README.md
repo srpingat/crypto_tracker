@@ -1,5 +1,11 @@
 # React + Vite
 
+steps to run project:
+1. clone the folder on ur system
+2. run "npm i" command in terminal
+3. to run project  use "npm run dev" command
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
